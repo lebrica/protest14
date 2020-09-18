@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a994d8-a0f7-462f-abd6-d8348b0a7acf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/harvesthq/chosen" />
+      <path value="$PROJECT_DIR$/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1havKAYIo7CQHvRvXOFWD6unC1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Y:\OSPanel\domains\protest14\resources\js" />
+      <recent name="Y:\OSPanel\domains\protest14\resources" />
+      <recent name="Y:\OSPanel\domains\protest14\vendor" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a994d8-a0f7-462f-abd6-d8348b0a7acf" name="Default Changelist" comment="" />
+      <created>1600261950532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600261950532</updated>
+      <workItem from="1600261951653" duration="5692000" />
+      <workItem from="1600268832403" duration="26078000" />
+      <workItem from="1600338208768" duration="51468000" />
+      <workItem from="1600397908602" duration="22805000" />
+      <workItem from="1600421155349" duration="5886000" />
+      <workItem from="1600439457822" duration="2086000" />
+      <workItem from="1600441753847" duration="25795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600272908783">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1368" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600272908783" />
+    <state x="-1202" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1600464313198">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1202" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600464313198" />
+    <state x="-1296" y="276" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600443039702">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1296" y="276" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600443039702" />
+    <state x="-1257" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600442990946">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1257" y="388" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600442990946" />
+    <state x="-1233" y="276" key="FileChooserDialogImpl" timestamp="1600267689490">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1233" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600267689490" />
+    <state x="-1211" y="231" key="NewPhpClassDialog" timestamp="1600443007259">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1211" y="231" key="NewPhpClassDialog/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600443007259" />
+    <state x="-1171" y="481" key="NewPhpFileDialog" timestamp="1600377694412">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1171" y="481" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600377694412" />
+    <state x="-1329" y="228" width="738" height="704" key="find.popup" timestamp="1600460478633">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1329" y="228" width="738" height="704" key="find.popup/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600460478633" />
+    <state x="-1388" y="267" key="run.anything.popup" timestamp="1600419174153">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1388" y="267" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1600419174153" />
+  </component>
+</project>

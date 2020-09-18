@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "protest14\\Model\\": "model",
+      "protest14\\Controller\\": "controller",
+      "protest14\\Component\\": "component"
+    }
+  },
+  "require": {
+    "php-di/php-di": "^6.2"
+  }
+}
