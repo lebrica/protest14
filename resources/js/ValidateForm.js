@@ -10,17 +10,13 @@ $('form').submit(function() {
     form.find('.error').remove();
 
     if (name.val() === '') {
-        name
-            .before('<div class="error">Введите имя</div>');
+        name.before('<div class="error">Введите имя</div>');
     } else if (mail.val() === '' ) {
-        mail
-            .before('<div class="error">Введите емайл</div>');
+        mail.before('<div class="error">Введите емайл</div>');
     } else if(!pattern.test(mail.val())) {
-        mail
-            .before('<div class="error">Введите введите корректный емайл</div>');
+        mail.before('<div class="error">Введите введите корректный емайл</div>');
     }else  if (city.val() === null) {
-         region
-             .before('<div class="error">Выберите Область затем Город</div>');
+         region.before('<div class="error">Выберите Область затем Город</div>');
     } else {
 
     $.ajax({
