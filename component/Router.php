@@ -56,7 +56,7 @@ class Router
     {
         $parameters= $this->findDataParam();
         if ($parameters == null) {
-            header("Location: http://task/notfound");
+            header("Location: http://protest14/");
         }
 
         $this->containerBuild($parameters);
